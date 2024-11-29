@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-beige text-purpledark leading-relaxed;
+  }
+  h1 {
+    @apply text-5xl font-bold;
+  }
+  h2 {
+    @apply font-bold;
+  }
+  p a {
+    @apply font-bold hover:text-purplelight;
+  }
+}
+
+/* form styles */
+
+form label {
+  @apply rounded-lg w-full p-3 placeholder-purplelight font-semibold;
+}
+
+form input,
+form textarea {
+  @apply rounded-lg w-full p-3 text-purpledark placeholder-purplelight mb-5 mt-2;
+}
+
+form button {
+  @apply block mx-auto bg-purplelight text-purpledark hover:bg-purpledark hover:text-beige font-bold py-2 px-4 my-6 rounded-lg;
+}
+
+
+
+/* nav styles */
+/*
+nav a:hover {
+  @apply text-black;
+}
+*/

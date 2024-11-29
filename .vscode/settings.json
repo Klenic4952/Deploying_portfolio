@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "livePreview.customExternalBrowser": "Chrome",
+  "liveServer.settings.CustomBrowser": "chrome:PrivateMode"
+}
