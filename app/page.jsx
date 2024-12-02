@@ -28,7 +28,7 @@ export default function Home() {
       </section>
       <section
         id="projects"
-        className="mb-16 scroll-mt-16 md:mb-24 lg:scroll-mt-24"
+        className="mb-16 scroll-mt-16 md:mb-24 lg:scroll-mt-24 "
       >
         <Suspense fallback={<Loading />}>
           <Projects />
