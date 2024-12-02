@@ -7,11 +7,18 @@ export default function ContactForm() {
   const [state, handleSubmit] = useForm(process.env.NEXT_PUBLIC_CONTACT_FORM);
 
   if (state.succeeded) {
-    return <p>Hartelijk dank, je bericht is verzonden!</p>;
+    return (
+      <div className="p-10 mt-10 font-semibold bg-beige rounded-xl">
+        <p>Hartelijk dank, je bericht is verzonden!</p>
+      </div>
+    );
   }
 
   return (
-    <form onSubmit={handleSubmit} className="bg-beige rounded-xl p-5 mt-10 mb-5">
+    <form
+      onSubmit={handleSubmit}
+      className="bg-beige rounded-xl p-5 mt-10 mb-5"
+    >
       <input
         required
         type="text"
