@@ -13,9 +13,9 @@ export default function Experience() {
         mijn eigen weg te gaan. Check mijn CV voor mijn profiel en mijn
         werkervaring tot nu toe.
       </p>
-      <Link href="/Image/cv.pdf" target="blank" locale={false} rel="noopener noreferrer">
+      <Link href="/Image/CV.pdf" target="blank" locale={false} rel="noopener noreferrer">
         <Image
-          src="/Image/cv.png"
+          src="/Image/CV.png"
           alt="CV"
           width={354}
           height={500}
