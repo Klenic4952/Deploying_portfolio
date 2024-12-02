@@ -16,7 +16,7 @@ const UseActiveSection = () => {
     const observer = new IntersectionObserver(handleIntersection, {
       root: null,
       rootMargin: "0px",
-      threshold: 0.6, // Adjust this value to determine when a section is considered "active"
+      threshold: 0.4, // Adjust this value to determine when a section is considered "active"
     });
 
     const sections = document.querySelectorAll("main section");
