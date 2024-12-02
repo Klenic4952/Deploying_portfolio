@@ -20,6 +20,7 @@ const SiWindows = dynamic(() => import("react-icons/si").then(mod => mod.SiWindo
 const SiPostman = dynamic(() => import("react-icons/si").then(mod => mod.SiPostman));
 const SiTailwindcss = dynamic(() => import("react-icons/si").then(mod => mod.SiTailwindcss));
 const SiNetlify = dynamic(() => import("react-icons/si").then(mod => mod.SiNetlify));
+const SiVercel = dynamic(() => import("react-icons/si").then(mod => mod.SiVercel));
 
 const VscVscode = dynamic(() => import("react-icons/vsc").then(mod => mod.VscVscode));
 const PiDevicesLight = dynamic(() => import("react-icons/pi").then(mod => mod.PiDevicesLight));
@@ -47,5 +48,6 @@ export const Icons = {
     netlify: SiNetlify,
     vscode: VscVscode,
     rwd: PiDevicesLight,
-    next: RiNextjsFill
+    next: RiNextjsFill,
+    vercel: SiVercel
 };

@@ -23,6 +23,7 @@
     { "id": "1", "name": "Next.js", "icon": "next" },
     { "id": "2", "name": "Tailwind CSS", "icon": "tailwind" },
     { "id": "3", "name": "WordPress", "icon": "wordpress" },
-    { "id": "4", "name": "Elementor", "icon": "elementor" }
+    { "id": "4", "name": "Elementor", "icon": "elementor" },
+    { "id": "5", "name": "Vercel", "icon": "vercel"}
   ]
 }
