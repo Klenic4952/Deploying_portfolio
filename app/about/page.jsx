@@ -46,12 +46,12 @@ export default function About() {
         <p className=" mb-4 px-2 lg:px-3">
           Wat ik het leukst vind in mijn werk, is ingewikkelde
           zaken eenvoudiger maken voor mensen. Ik zet mijn ervaring als klantadviseur 
-          graag in voor mijn praktijk SMART Voedingsadvies. Daarnaast heb ik 24 tot 28 uur 
-          per week beschikbaar om mijn hybride loopbaan invulling te geven. ICT is voor mij een
-          nieuw werkveld waar ik met veel interesse kennis mee heb gemaakt. Momenteel onderzoek 
-          ik de mogelijkheid om WordPress-websites te gaan maken voor klanten. Ik zou ook passen 
-          op een ICT-gerelateerde Servicedesk of in de rol van Digicoach. Ik heb een voorkeur
-          voor een werkomgeving met maatschappelijke en/of duurzame impact.
+          met veel passie in voor mijn praktijk SMART Voedingsadvies. 
+          Front-End Development en ICT is voor mij een nieuw werkveld waar ik met veel 
+          interesse kennis mee heb gemaakt. Deze vaardigheden komen me goed van pas
+          bij het runnen van mijn prakijk. Wie weet ga ik in de toekomst voor collega-zelfstandigen 
+          een website bouwen. Neem gerust eens contact op als je daar interesse in hebt.  
+
         </p>
         <p className=" mb-4 px-2 lg:px-3">
           Kort samengevat: je vindt in mij een combinatie van sociale en communicatieve vaardigheden
