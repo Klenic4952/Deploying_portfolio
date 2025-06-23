@@ -49,7 +49,9 @@ export default function About() {
           momenteel in voor mijn praktijk SMART Voedingsadvies. 
           Front-End Development en ICT is voor mij een nieuw werkveld waar ik met veel 
           interesse kennis mee heb gemaakt. Momenteel orienteer ik me op mogelijkheden om 
-          mijn adviesvaardigheden te combineren met mijn digitale interesse en vaardigheid. 
+          mijn adviesvaardigheden te combineren met mijn digitale interesse en vaardigheid.
+          Ik denk daarbij niet per definitie aan het ontwerpen van websites. Ik blijf de grootste
+          voldoening halen uit het helpen van anderen met tools en adviezen.  
 
         </p>
         <p className=" mb-4 px-2 lg:px-3">
