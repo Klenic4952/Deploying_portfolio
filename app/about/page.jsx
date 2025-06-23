@@ -46,11 +46,10 @@ export default function About() {
         <p className=" mb-4 px-2 lg:px-3">
           Wat ik het leukst vind in mijn werk, is ingewikkelde
           zaken eenvoudiger maken voor mensen. Ik zet mijn ervaring als klantadviseur 
-          met veel passie in voor mijn praktijk SMART Voedingsadvies. 
+          momenteel in voor mijn praktijk SMART Voedingsadvies. 
           Front-End Development en ICT is voor mij een nieuw werkveld waar ik met veel 
-          interesse kennis mee heb gemaakt. Deze vaardigheden komen me goed van pas
-          bij het runnen van mijn prakijk. Wie weet ga ik in de toekomst voor collega-zelfstandigen 
-          een website bouwen. Neem gerust eens contact op als je daar interesse in hebt.  
+          interesse kennis mee heb gemaakt. Momenteel orienteer ik me op mogelijkheden om 
+          mijn adviesvaardigheden te combineren met mijn digitale interesse en vaardigheid. 
 
         </p>
         <p className=" mb-4 px-2 lg:px-3">
