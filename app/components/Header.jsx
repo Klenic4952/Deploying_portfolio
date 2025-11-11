@@ -14,7 +14,7 @@ export default function Header() {
           Junior Front-End Developer
         </h2>
         <p className="text-[17px] mt-4 font-semibold">
-          Op ontdekkingstocht in ICT
+          Op ontdekkingstocht in webdevelopment
         </p>
         <NavBar />
       </div>
