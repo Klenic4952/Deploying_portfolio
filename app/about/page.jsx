@@ -9,14 +9,15 @@ export default function About() {
           Na een loopbaan van bijna 22 jaar als adviseur in de financiële
           dienstverlening, begon ik in 2019 aan een hybride loopbaan. Naast mijn werk
           als Financieel Adviseur bij de Rabobank startte ik een praktijk als Gewichtsconsulent. 
-          In 2021 heb ik mijn baan bij de Rabobank opgezegd om me volledig op mijn praktijk te richten. 
+          In 2021 heb ik mijn baan bij de Rabobank opgezegd om me volledig op mijn praktijk te richten.En om
+          te onderzoeken wat nog meer bij mij past behalve de Rabobank. 
           Voor mijn praktijk <a href="https://smartvoedingsadvies.nl" className="text-beigelight" target="blank">SMART Voedingsadvies </a> 
           had ik in 2019 al een website gebouwd met WordPress. Dit vond ik zo interessant dat ik besloot
           een opleiding Front-End Development te volgen bij <a href="https://www.wincacademy.nl/opleidingen/front-end-development" 
           className="text-beigelight"target="blank">Winc Academy</a>. 
         </p>
         <p className="mb-4 px-2 lg:px-3">
-          Op het eerste gezicht lijkt dit misschien een drastische carrièreswitch, 
+          Op het eerste gezicht lijkt dit alles misschien een drastische carrièreswitch, 
           maar de vaardigheden en competenties overlappen meer dan je zou denken.
           Als financieel adviseur haalde ik veel voldoening uit het helpen van klanten 
           met complexe onderwerpen. Daarnaast was ik altijd handig met systemen en software, 
@@ -45,18 +46,22 @@ export default function About() {
         </p>
         <p className=" mb-4 px-2 lg:px-3">
           Wat ik het leukst vind in mijn werk, is ingewikkelde
-          zaken eenvoudiger maken voor mensen. Ik zet mijn ervaring als klantadviseur 
+          zaken eenvoudiger maken voor mensen. Ik zet mijn advieservaring
           momenteel in voor mijn praktijk SMART Voedingsadvies. 
-          Front-End Development en ICT is voor mij een nieuw werkveld waar ik met veel 
-          interesse kennis mee heb gemaakt. Momenteel orienteer ik me op mogelijkheden om 
-          mijn adviesvaardigheden te combineren met mijn digitale interesse en vaardigheid.
-          Ik denk daarbij niet per definitie aan het ontwerpen van websites. Ik blijf de grootste
-          voldoening halen uit het helpen van anderen met tools en adviezen.  
+          Front-End Development en het bouwen van een website was voor mij een nieuw werkveld 
+          waar ik met veel interesse en plezier kennis mee heb gemaakt. Tegelijk heb ik
+          ontdekt dat het niet bij mij past om non-stop websites te bouwen. Ik sluit niet uit
+          dat ik mijn vaardigheden misschien nog wel eens inzet voor een vereniging of stichting
+          die een website nodig heeft. Ik heb ontdekt dat mijn ICT-plezier vooral ligt in mijn ervaring
+          met administratieve processen, structuur brengen in complexe informatie en 
+          mijn natuurlijk vaardigheid in het werken met uiteenlopende systemen.   
 
         </p>
         <p className=" mb-4 px-2 lg:px-3">
-          Kort samengevat: je vindt in mij een combinatie van sociale en communicatieve vaardigheden
-          met een analytische en probleemoplossende aanpak en de nodige vasthoudendheid.
+          Kort samengevat: ik houd ervan om als zorgvuldige en servicegerichte professional
+          structuur te brengen in administratie en digitale processen. Daarnaast zet ik
+          mijn communicatieve en adviesvaardigheden graag in om mensen te begeleiden op het 
+          gebied van gezond eten. 
         </p>
       </div>
     </div>

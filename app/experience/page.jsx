@@ -10,7 +10,7 @@ export default function Experience() {
       <p className="text-purpledark">
         Mijn werkzame leven begon bij de Rabobank en ik heb daar bijna 25 jaar
         met veel plezier en voldoening gewerkt. Het was een spannende stap om
-        mijn eigen weg te gaan. Check mijn CV voor mijn profiel en mijn
+        een nieuwe weg in te slaan. Check mijn CV voor mijn profiel en mijn
         werkervaring tot nu toe.
       </p>
       <Link href="/Image/CV.pdf" target="blank" locale={false} rel="noopener noreferrer">
