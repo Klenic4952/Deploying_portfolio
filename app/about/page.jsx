@@ -6,62 +6,28 @@ export default function About() {
       </div>
       <div className="p-2 rounded-xl border-solid border-4 border-beige">
         <p className="mb-4 pt-2 px-2 lg:px-3">
-          Na een loopbaan van bijna 22 jaar als adviseur in de financiële
-          dienstverlening, begon ik in 2019 aan een hybride loopbaan. Naast mijn werk
-          als Financieel Adviseur bij de Rabobank startte ik een praktijk als Gewichtsconsulent. 
-          In 2021 heb ik mijn baan bij de Rabobank opgezegd om me volledig op mijn praktijk te richten.En om
-          te onderzoeken wat nog meer bij mij past behalve de Rabobank. 
-          Voor mijn praktijk <a href="https://smartvoedingsadvies.nl" className="text-beigelight" target="blank">SMART Voedingsadvies </a> 
-          had ik in 2019 al een website gebouwd met WordPress. Dit vond ik zo interessant dat ik besloot
+          Bijzonder hoe nieuwe dingen soms op je pad komen. Voor mijn praktijk <a href="https://smartvoedingsadvies.nl" className="text-beigelight" target="blank">SMART Voedingsadvies </a> 
+          bouwde ik in 2019 een website met WordPress. Dit vond ik zo interessant dat ik besloot
           een opleiding Front-End Development te volgen bij <a href="https://www.wincacademy.nl/opleidingen/front-end-development" 
           className="text-beigelight"target="blank">Winc Academy</a>. 
-        </p>
-        <p className="mb-4 px-2 lg:px-3">
-          Op het eerste gezicht lijkt dit alles misschien een drastische carrièreswitch, 
-          maar de vaardigheden en competenties overlappen meer dan je zou denken.
-          Als financieel adviseur haalde ik veel voldoening uit het helpen van klanten 
-          met complexe onderwerpen. Daarnaast was ik altijd handig met systemen en software, 
-          wat goed van pas kwam in de financiële dienstverlening. 
-          Als <a href="https://www.gewichtsconsulenten.nl/" 
-          className="text-beigelight"target="blank">BGN-Gewichtsconsulent</a> begeleid ik mensen op het gebied 
-          van gezond eten waarbij ik mijn advieservaring goed kan gebruiken.
-          Maar ook mijn digitale vaardigheden bleken opnieuw nuttig. 
-          Zo ontwierp ik niet alleen een website, maar maakte ik ook gebruik van een 
-          online intakeformulier, online agenda en nieuwsbrief.
         </p>
         <p className="mb-4 px-2 lg:px-3">
           In mei 2024 haalde ik mijn certificaat Front-End Development 
           bij Winc Academy. Daarna maakte ik dit portfolio met <a href="https://nextjs.org/" 
           className="text-beigelight" target="blank">Next.js</a> en <a href="https://tailwindcss.com/" 
           className="text-beigelight" target="blank">Tailwind CSS</a>. 
-          Vervolgens heb ik de website voor mijn praktijk opnieuw opgebouwd
+          Vervolgens heb ik de website voor mijn praktijk opnieuw vorm gegeven
           met <a href="https://wordpress.com/nl/" className="text-beigelight" target="blank">WordPress </a> 
-          en <a href="https://elementor.com/" className="text-beigelight" target="blank"> Elementor</a>, 
-          die ook in dit portfolio te vinden is. 
-        </p>
-        <p className="mb-4 px-2 lg:px-3">
-          Naast deze interesses houd ik enorm van de natuur. Ik woon met mijn gezin 
-          dichtbij de natuur en wandel regelmatig op de Drentse heide. Wandelen 
-          is voor mij een geweldige manier om te bewegen en te ontspannen.
+          en <a href="https://elementor.com/" className="text-beigelight" target="blank"> Elementor</a>.
+          Inmiddels heb ik ook een website mogen bouwen voor <a href="https://avond4daagsehavelte.nl/" className="text-beigelight" target="blank">Avond4daagse Havelte</a>.
         </p>
         <p className=" mb-4 px-2 lg:px-3">
-          Wat ik het leukst vind in mijn werk, is ingewikkelde
-          zaken eenvoudiger maken voor mensen. Ik zet mijn advieservaring
-          momenteel in voor mijn praktijk SMART Voedingsadvies. 
-          Front-End Development en het bouwen van een website was voor mij een nieuw werkveld 
-          waar ik met veel interesse en plezier kennis mee heb gemaakt. Tegelijk heb ik
-          ontdekt dat het niet bij mij past om non-stop websites te bouwen. Ik sluit niet uit
-          dat ik mijn vaardigheden misschien nog wel eens inzet voor een vereniging of stichting
-          die een website nodig heeft. Ik heb ontdekt dat mijn ICT-plezier vooral ligt in mijn ervaring
-          met administratieve processen, structuur brengen in complexe informatie en 
-          mijn natuurlijk vaardigheid in het werken met uiteenlopende systemen.   
-
-        </p>
-        <p className=" mb-4 px-2 lg:px-3">
-          Kort samengevat: ik houd ervan om als zorgvuldige en servicegerichte professional
-          structuur te brengen in administratie en digitale processen. Daarnaast zet ik
-          mijn communicatieve en adviesvaardigheden graag in om mensen te begeleiden op het 
-          gebied van gezond eten. 
+          Ik ben erg enthousiast over WordPress in combinatie met Elementor.
+          Daarom bouw ik websites nu uitsluitend in WordPress, wat als voordeel heeft, 
+          dat je als eigenaar van de website deze redelijk eenvoudig kunt beheren.
+          Tijdens het bouwen van de website besteed ik veel aandacht aan kleurcombinaties, 
+          responsiveness en vindbaarheid. Geweldig hoe een idee dan 
+          vorm krijgt en uiteindelijk resulteert in een passende website. 
         </p>
       </div>
     </div>
