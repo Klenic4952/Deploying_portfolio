@@ -33,7 +33,7 @@ export default function Projects() {
         <div>
           <p className="text-beigelight my-8">
             Mijn laatste project was het bouwen van een website voor Avond4daagse Havelte. Na het succes van de 
-            Avond4daagse in 2025, vond het bestuur het nu hoog tijd voor een eigen website. Ik vond het geweldig
+            Avond4daagse in 2025, vond het bestuur het nu hoog tijd voor een eigen website. Ik vond het erg leuk
             om deze website voor dit mooie doel te mogen maken. Ik bouwde deze website met {" "}
             <a
               href="https://wordpress.com/nl/"
@@ -42,7 +42,7 @@ export default function Projects() {
             >
               WordPress
             </a>{" "}
-            en{" "}
+            en {" "}
             <a
               href="https://elementor.com/"
               className="text-purplelight hover:text-beigelight"
