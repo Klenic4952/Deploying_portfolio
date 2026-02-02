@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Nicolien Klein",
-  description: "Nicolien Klein pioniert als front-end webdeveloper",
+  description: "Van idee naar online, met Wordpress als stevige basis",
   icons: {
     icon: [
       { rel: 'apple-touch-icon', sizes: '180x180', url: '/apple-touch-icon.png' },
