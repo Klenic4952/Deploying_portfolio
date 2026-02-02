@@ -24,19 +24,6 @@ const NavBar = () => {
         </li>
         <li className="hover:font-bold">
           <Link
-            href="#education"
-            className={`group flex items-center py-3 ${
-              activeSection === "education" ? "font-bold" : ""
-            }`}
-          >
-            {activeSection === "education" && (
-              <FaCircle className="fill-midpurple mr-3" />
-            )}
-            <span className="group-hover:font-bold">OPLEIDING</span>
-          </Link>
-        </li>
-        <li className="hover:font-bold">
-          <Link
             href="#projects"
             className={`group flex items-center py-3 ${
               activeSection === "projects" ? "font-bold" : ""
@@ -50,15 +37,15 @@ const NavBar = () => {
         </li>
         <li className="hover:font-bold">
           <Link
-            href="#experience"
+            href="#education"
             className={`group flex items-center py-3 ${
-              activeSection === "experience" ? "font-bold" : ""
+              activeSection === "education" ? "font-bold" : ""
             }`}
           >
-            {activeSection === "experience" && (
+            {activeSection === "education" && (
               <FaCircle className="fill-midpurple mr-3" />
             )}
-            <span className="group-hover:font-bold">WERKERVARING</span>
+            <span className="group-hover:font-bold">OPLEIDING</span>
           </Link>
         </li>
         <li className="hover:font-bold">
