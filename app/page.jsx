@@ -5,7 +5,6 @@ import About from "./about/page";
 import Education from "./education/page";
 import Projects from "./projects/page";
 import Contact from "./contact/page";
-import Experience from "./experience/page";
 import Loading from "./loading";
 
 
@@ -19,29 +18,21 @@ export default function Home() {
         <About />
       </section>
       <section
-        id="education"
-        className="mb-16 scroll-mt-16 md:mb-24 lg:scroll-mt-24"
-      >
-        <Suspense fallback={<Loading />}>
-          <Education />
-        </Suspense>
-      </section>
-      <section
         id="projects"
         className="mb-16 scroll-mt-16 md:mb-24 lg:scroll-mt-24 "
       >
         <Suspense fallback={<Loading />}>
           <Projects />
         </Suspense>
-      </section>
+      </section>      
       <section
-        id="experience"
+        id="education"
         className="mb-16 scroll-mt-16 md:mb-24 lg:scroll-mt-24"
       >
         <Suspense fallback={<Loading />}>
-          <Experience />
+          <Education />
         </Suspense>
-      </section>
+      </section>    
       <section
         id="contact"
         className="mb-16 scroll-mt-16 md:mb-24 lg:scroll-mt-24"
