@@ -2,6 +2,7 @@ import Image from "next/image";
 import EventApp from "./event_app.png";
 import RecipeApp from "./recipe_checker.png";
 import SmartWebsite from "./smartwp.png";
+import VierdaagseWebsite from "./a4d_wp.png";
 
 export default function Projects() {
   return (
@@ -12,14 +13,14 @@ export default function Projects() {
       <div>
         <div>
           <h3 className="text-midpurple font-bold text-center text-[24px]">
-            SMART Voedingsadvies
+            Avond4daagse Havelte
           </h3>
-          <a href="https://smartvoedingsadvies.nl/" target="blank">
+          <a href="https://avond4daagsehavelte.nl/" target="blank">
             <Image
-              src={SmartWebsite}
-              alt="SMART Voedingsadvies"
+              src={VierdaagseWebsite}
+              alt="Avond4daagse Havelte"
               width={550}
-              height={374}
+              height={298}
               className="border-solid border-8 border-midpurple rounded-lg mx-auto mt-10"
               sizes="(min-width: 1340px) 325px, (min-width: 1040px) calc(30vw - 71px), (min-width: 780px) calc(70vw - 123px), calc(70vw - 90px)"
               style={{
@@ -31,8 +32,9 @@ export default function Projects() {
         </div>
         <div>
           <p className="text-beigelight my-8">
-            Deze website voor mijn praktijk SMART Voedingsadvies heb ik gemaakt
-            na het voltooien van de opleiding. Ik heb de website gemaakt met{" "}
+            Mijn laatste project was het bouwen van een website voor Avond4daagse Havelte. Na het succes van de 
+            Avond4daagse in 2025, vond het bestuur het nu hoog tijd voor een eigen website. Ik vond het geweldig
+            om deze website voor dit mooie doel te mogen maken. Ik bouwde deze website met {" "}
             <a
               href="https://wordpress.com/nl/"
               className="text-purplelight hover:text-beigelight"
@@ -57,6 +59,59 @@ export default function Projects() {
               Blocksy-Theme
             </a>{" "}
             gekozen. Daarbij heb ik geen standaard templates gebruikt, maar zelf
+            de pagina`s opgebouwd. Waar nodig heb ik CSS naar eigen wens
+            aangepast.
+          </p>
+        </div>
+      </div>
+      <div>
+        <div>
+          <h3 className="text-midpurple font-bold text-center text-[24px]">
+            SMART Voedingsadvies
+          </h3>
+          <a href="https://smartvoedingsadvies.nl/" target="blank">
+            <Image
+              src={SmartWebsite}
+              alt="SMART Voedingsadvies"
+              width={550}
+              height={374}
+              className="border-solid border-8 border-midpurple rounded-lg mx-auto mt-10"
+              sizes="(min-width: 1340px) 325px, (min-width: 1040px) calc(30vw - 71px), (min-width: 780px) calc(70vw - 123px), calc(70vw - 90px)"
+              style={{
+                width: "75%",
+                height: "auto",
+              }}
+            />
+          </a>
+        </div>
+        <div>
+          <p className="text-beigelight my-8">
+            Deze website voor mijn praktijk SMART Voedingsadvies heb ik gemaakt
+            na het voltooien van de opleiding. Ook deze website is gemaakt met{" "}
+            <a
+              href="https://wordpress.com/nl/"
+              className="text-purplelight hover:text-beigelight"
+              target="blank"
+            >
+              WordPress,
+            </a>{" "}
+            {" "}
+            <a
+              href="https://elementor.com/"
+              className="text-purplelight hover:text-beigelight"
+              target="blank"
+            >
+              Elementor
+            </a>
+            en het {" "}
+            <a
+              href="https://creativethemes.com/blocksy/"
+              className="text-purplelight hover:text-beigelight"
+              target="blank"
+            >
+              Blocksy-Theme.
+            </a>{" "}
+            Ook hier zijn geen standaard templates gebruikt, maar heb ik zelf
             de pagina`s opgebouwd. Waar nodig heb ik CSS naar eigen wens
             aangepast.
           </p>
