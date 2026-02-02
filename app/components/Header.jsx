@@ -11,10 +11,10 @@ export default function Header() {
           <Link href="/">Nicolien Klein</Link>
         </h1>
         <h2 className="text-midpurple text-2xl mt-3 mb-4">
-          Van idee tot online
+          Van idee naar online,
         </h2>
         <p className="text-[17px] mt-4 font-semibold">
-          Met WordPress als stevige basis
+          met WordPress als stevige basis
         </p>
         <NavBar />
       </div>
