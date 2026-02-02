@@ -25,9 +25,7 @@ export default function About() {
           Ik ben erg enthousiast over WordPress in combinatie met Elementor.
           Daarom bouw ik websites nu uitsluitend met WordPress, wat als voordeel heeft 
           dat je als eigenaar van de website deze redelijk eenvoudig kunt beheren.
-          Tijdens het bouwen van de website besteed ik veel aandacht aan kleurcombinaties, 
-          responsiveness en vindbaarheid. Geweldig hoe een idee dan 
-          vorm krijgt en uiteindelijk resulteert in een passende website. 
+          Geweldig hoe een idee vorm krijgt en uiteindelijk online gaat. 
         </p>
       </div>
     </div>
