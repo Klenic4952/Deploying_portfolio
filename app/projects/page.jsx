@@ -101,7 +101,7 @@ export default function Projects() {
               className="text-purplelight hover:text-beigelight"
               target="blank"
             >
-              Elementor
+              Elementor {" "}
             </a>
             en het {" "}
             <a
