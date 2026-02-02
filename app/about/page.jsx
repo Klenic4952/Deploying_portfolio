@@ -19,11 +19,11 @@ export default function About() {
           Vervolgens heb ik de website voor mijn praktijk opnieuw vorm gegeven
           met <a href="https://wordpress.com/nl/" className="text-beigelight" target="blank">WordPress </a> 
           en <a href="https://elementor.com/" className="text-beigelight" target="blank"> Elementor</a>.
-          Inmiddels heb ik ook een website mogen bouwen voor <a href="https://avond4daagsehavelte.nl/" className="text-beigelight" target="blank">Avond4daagse Havelte</a>.
+          Inmiddels heb ik ook een website mogen bouwen voor <a href="https://avond4daagsehavelte.nl/" className="text-beigelight" target="blank">Avond4daagse Havelte</a>. 
         </p>
         <p className=" mb-4 px-2 lg:px-3">
           Ik ben erg enthousiast over WordPress in combinatie met Elementor.
-          Daarom bouw ik websites nu uitsluitend in WordPress, wat als voordeel heeft, 
+          Daarom bouw ik websites nu uitsluitend met WordPress, wat als voordeel heeft 
           dat je als eigenaar van de website deze redelijk eenvoudig kunt beheren.
           Tijdens het bouwen van de website besteed ik veel aandacht aan kleurcombinaties, 
           responsiveness en vindbaarheid. Geweldig hoe een idee dan 
